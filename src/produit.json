@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "premier article",
+      "content": "quel belle lampe",
+      "prix": 1000
+    },
+    {
+      "id": 2,
+      "title": "article number 2",
+      "content": "Ouaaa un beau téléphone",
+      "prix": 105
+    },
+    {
+        "id": 3,
+        "title": "article number 3",
+        "content": "Ouaaa un belle avion",
+        "prix": 274
+      },
+      {
+        "id": 4,
+        "title": "article number 4",
+        "content": "magnique ce baton",
+        "prix": 2
+      }
+  ]
+  
